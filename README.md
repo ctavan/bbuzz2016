@@ -5,7 +5,7 @@
 
 ## Scraping
 
-Using http://scrapy.org/
+Using http://scrapy.org/ on Ubuntu:
 
 ```
 sudo apt-get update
