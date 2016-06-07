@@ -16,7 +16,7 @@ virtualenv venv
 pip install Scrapy
 pip install boto
 
-echo <<EOF > ~/.botocfg
+cat <<EOF > ~/.botocfg
 AWSAccessKeyId=YOUR_AWS_ACCESS_KEY
 AWSSecretKey=YOUR_AWS_SECRET_KEY
 EOF
